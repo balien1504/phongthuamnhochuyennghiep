@@ -1,0 +1,6 @@
+{
+  "name": "VocalStudio AI - Phòng Thu Âm & Chỉnh Giọng Chuyên Nghiệp",
+  "description": "Ứng dụng thu âm, lọc tạp âm AI, tự động căn chỉnh giọng hát theo tone nhạc (Auto-Tune ca sĩ) và bộ hiệu ứng phòng thu chuyên nghiệp.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
